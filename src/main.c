@@ -163,5 +163,5 @@ int main(){
 
   printf("%.2f\n", c.sum);
 
-
+  return 0;
 }
